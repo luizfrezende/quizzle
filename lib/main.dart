@@ -14,6 +14,9 @@ class MyApp extends StatelessWidget {
       title: 'Aplicativo de perguntas',
       debugShowCheckedModeBanner: false,
       home: WelcomeScreen(),
+      theme: ThemeData(
+        fontFamily: 'Poppins',
+      ),
     );
   }
 }

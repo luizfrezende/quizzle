@@ -15,10 +15,10 @@ class ButtonStart extends StatelessWidget {
         padding: EdgeInsets.all(kDefaultPadding * 0.75), // 15
         decoration: BoxDecoration(
           color: lightGreen,
-          borderRadius: BorderRadius.all(Radius.circular(20)),
+          borderRadius: borderRadius,
         ),
         child: Text(
-          "Bora começar!",
+          "Entrar",
           style: Theme.of(context)
               .textTheme
               .labelLarge

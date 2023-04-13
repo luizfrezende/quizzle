@@ -9,14 +9,14 @@ class InputName extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return TextField(
-      style: TextStyle(color: whiteColor),
+      style: TextStyle(color: whiteColor, fontFamily: 'OpenSans'),
       decoration: InputDecoration(
         hintStyle: TextStyle(color: whiteColor),
         filled: true,
         fillColor: lightBlue,
         hintText: hintText,
         border: OutlineInputBorder(
-          borderRadius: BorderRadius.all(Radius.circular(20)),
+          borderRadius: borderRadius,
           borderSide: BorderSide.none,
         ),
       ),
