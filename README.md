@@ -8,7 +8,7 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [ x ] Design telas
+- [x] Design telas
 - [ ] Front-end de perguntas
 - [ ] Feedback de resposta correta ou errada
 - [ ] Feedback de pontuação
