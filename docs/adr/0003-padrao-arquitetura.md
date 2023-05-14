@@ -22,18 +22,18 @@ Qual seria um padrão arquitetural para o software que correspondesse a essênci
 
 ## Decision Outcome
 
-Opção escolhida: Clean Architecture, pois se trata de uma arquitetura para softwares que tem a flexibilidade de crescer, também de realizar melhores manutenções e menos acoplamento
+Opção escolhida: MVC, pois apesar de serem utilizados módulos de forma a melhorar o acoplamento, o MVC colabora para aplicativos mais simples e que não hajam preocupações de escalabilidade. Software iniciantes combinam bem com o padrão arquitetural MVC.
 
 ## Pros and Cons of the Options <!-- optional -->
 
-### [MVC]
+### MVC
 
 * Bom, pois se trata de uma arquitetura com muito uso e muito material de apoio
 * Bom, por ser uma arquitetura simples de ser implementada
 * Ruim, em questões de complexidade de software, pois é feito com enfoque nos de menor complexidade
-* Ruim, pois possui algumas falhas
+* Bom, pois a complexidade do aplicativo é bem pequena, então o padrão se encaixa
 
-### [Clean Architecture]
+### Clean Architecture
 
 * Bom, pois se trata de uma arquitetura bastante completa
 * Ruim, pois é uma arquitetura que demanda muito tempo no começo
@@ -42,7 +42,6 @@ Opção escolhida: Clean Architecture, pois se trata de uma arquitetura para sof
 
 ## Links <!-- optional -->
 
-* [Link type] [Link to ADR] <!-- example: Refined by [ADR-0005](0005-example.md) -->
-* … <!-- numbers of links can vary -->
+* [Why using MVC](https://rohaaan.hashnode.dev/mastering-the-mvc-pattern-in-flutter-a-guide-to-better-code-organization)<!-- example: Refined by [ADR-0005](0005-example.md) -->
 
 <!-- markdownlint-disable-file MD013 -->
