@@ -43,7 +43,7 @@ Chosen option: "Coexistência", pois esse atributo avalia o quão bem o produto 
 
 * Bom, pois descreve uma característica fundamental ao aplicativo
 * Bom, pois sua consideração é relevante ao desenvolvimento correto do software
-* Ruim, pois não é um atributo de qualidade fácil de se assegurar. É necessário dedicação ao estudo das ferramentas das quais se deseja harmonia entre a operação simultânea. 
+* Ruim, pois não é um atributo de qualidade fácil de se assegurar. É necessário dedicação ao estudo das ferramentas entre as quais se deseja harmonia
  <!-- numbers of pros and cons can vary -->
 
 ### Interoperabilidade
