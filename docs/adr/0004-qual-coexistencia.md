@@ -9,7 +9,7 @@ Technical Story: atributo de qualidade - coexistência <!-- optional -->
 
 ## Context and Problem Statement
 
-Sob a ótica das características de qualidade do produto de software, mais especificamente de Compatibilidade, qual requisito melhor configura um atributo de qualidade essencial para que o aplicativo a ser desenvolvido funcione bem?
+Sob a ótica das características de qualidade do produto de software, mais especificamente da Compatibilidade, qual requisito melhor configura um atributo de qualidade essencial para que o aplicativo a ser desenvolvido funcione bem?
 
 ## Decision Drivers <!-- optional -->
 
