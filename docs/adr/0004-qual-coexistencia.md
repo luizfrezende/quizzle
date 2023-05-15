@@ -14,7 +14,7 @@ Sob a ótica das características de qualidade do produto de software, mais espe
 ## Decision Drivers <!-- optional -->
 
 * Visando as características do aplicativo
-* Levando em consideração também que, para o funcionamento do aplicativo, será fundamental a utilização do aplicativo "Talkback"
+* Levando em consideração que, para o funcionamento do aplicativo, será fundamental a utilização do software "Talkback"
 * Compreendendo que a parte terceira "Talkback" não apenas trocará informações com o aplicativo, ou responderá requisições avulsas, mas compartilhará recursos com ele, integrando parte de seu funcionamento.
 <!-- numbers of drivers can vary -->
 
