@@ -48,8 +48,6 @@ Chosen option: "Coexistência", pois esse atributo avalia o quão bem o produto 
 
 ### Interoperabilidade
 
-[example | description | pointer to more information | …] <!-- optional -->
-
 * Bom, pois são várias as possibilidades de melhoria de um produto de software através da interação com outros.
 * Ruim, pois o atributo não se encaixa no escopo atual da aplicação em desenvolvimento.
 
